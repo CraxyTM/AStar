@@ -1,0 +1,13 @@
+title: A* Visualization
+description: Java visualization of the A* pathfinding algorithm
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+docs_url: ./docs/1.0/
+
+github:
+  jar_url: https://github.com/CraxyTM/astar/releases/download/v1.0/astar-1.0.jar
+  zip_url: https://github.com/CraxyTM/astar/zipball/master
+
+gems:
+  - jekyll-mentions
