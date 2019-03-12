@@ -1,5 +1,5 @@
 # A* Pathfinding Visualization
-[![Build Status](https://travis-ci.com/CraxyTM/AStar.svg?branch=master)](https://travis-ci.com/CraxyTM/astar)
+[![Build Status](https://travis-ci.com/CraxyTM/AStar.svg?branch=master)](https://travis-ci.com/CraxyTM/AStar)
 
 A JavaFX visualization of the A* Pathfinding algorithm.
 
